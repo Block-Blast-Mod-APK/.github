@@ -18,7 +18,7 @@ Unlike many free games, the Block Blast MOD APK offers an ad-free experience, al
 
 ### 1.3 High-Quality Graphics and Smooth Controls
 
-[Block Blast](https://github.com/Block-Blast-Mod-APK/.github/edit/main/profile/README.md) MOD APK has high-quality graphics that make the game visually appealing. Combined with smooth, intuitive controls, players can enjoy a crisp and responsive gaming experience. The vibrant visuals and satisfying block mechanics enhance the immersion, making each puzzle feel rewarding.
+[Block Blast](https://github.com/Block-Blast-Mod-APK/) MOD APK has high-quality graphics that make the game visually appealing. Combined with smooth, intuitive controls, players can enjoy a crisp and responsive gaming experience. The vibrant visuals and satisfying block mechanics enhance the immersion, making each puzzle feel rewarding.
 
 ### 1.4 Challenging Levels with New Updates
 
