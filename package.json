@@ -1,0 +1,12 @@
+{
+  "name": "Block Blast MOD APK",
+  "version": "1.0.0",
+  "description": "Block Blast MOD APK Download (Unlimited Everything).",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
